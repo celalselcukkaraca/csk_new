@@ -101,9 +101,7 @@ public class Main {
 			}
 		
 		}	//main loop while
-		
-		
-		
+
 	} //end of main method
 	
 
